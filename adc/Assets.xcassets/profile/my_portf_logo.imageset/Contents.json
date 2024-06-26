@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "my_portf_logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
