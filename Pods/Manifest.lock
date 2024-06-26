@@ -1,0 +1,20 @@
+PODS:
+  - CombineKeyboard (1.0.0)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - CombineKeyboard
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - CombineKeyboard
+    - SnapKit
+
+SPEC CHECKSUMS:
+  CombineKeyboard: 6339ebb8a887429cd16b6d8753fae6e9664ba642
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 0ae4e154be7d8e630d80392a8c02b4609a088ef3
+
+COCOAPODS: 1.15.2
